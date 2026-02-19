@@ -1,12 +1,20 @@
 # Evrion Tech Solutions
 
-Evrion Tech Solutions builds software products and internal platforms under the Evrion group.
+Evrion Tech Solutions is a Swedish software and infrastructure company building scalable systems, AI-powered platforms, and secure SaaS products.
 
-## Focus
+## Core Areas
 
-- SaaS platforms and tooling
-- Infrastructure engineering
-- Secure system design
-- AI-assisted development workflows
+- SaaS Platform Development  
+- Infrastructure Engineering  
+- AI-Assisted Development  
+- Secure System Architecture  
+
+## Selected Initiatives
+
+- Desktop Profiles  
+- Evrion Sales Agent Network (SAN)  
+- Internal Infrastructure Systems  
+
+---
 
 Website: https://tech.evrion.se
